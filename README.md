@@ -17,8 +17,6 @@ Java • Spring Boot • React • PostgreSQL • Docker • Git
 ## 🌱 Currently Learning
 
 * Advanced Spring Boot & system architecture
-* API integrations & external data pipelines
-* Improving frontend structure with React
 
 ---
 
