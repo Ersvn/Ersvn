@@ -30,5 +30,5 @@ Java • Spring Boot • React • PostgreSQL • Docker • Git
 
 ## 📫 Contact
 
-* Email: [(erik.svensson@gritacademy.se)]
+* Email: erik.svensson@gritacademy.se
 * LinkedIn: [(Erik Svensson)](https://www.linkedin.com/in/erik-svensson-20a191382/)
