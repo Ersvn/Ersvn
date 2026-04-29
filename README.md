@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey, I'm Erik
 
-<!--
-**Ersvn/Ersvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java / Spring Boot / React  
+📊 Building a pricing engine & product dashboard  
+⚡ Passion for clean architecture & real-world systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🧠 Product Data Analyzer (Thesis)
+- 📡 SignalFlow (AI + market insights)
+- 🎮 Tower Defense (C# / MonoGame)
+
+---
+
+## 🛠 Tech Stack
+Java • Spring Boot • React • PostgreSQL • Docker  
+
+---
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=ersvn)
+
+---
+
+## 🌍 Portfolio
+👉 https://ersvn.github.io/
