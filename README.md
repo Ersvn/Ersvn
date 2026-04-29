@@ -10,7 +10,7 @@
 
 ## 🧰 Languages and Tools
 
-Java • Spring Boot • React • PostgreSQL • Docker • Git
+Java • Spring Boot • React • C# • PostgreSQL • Docker • Git
 
 ---
 
