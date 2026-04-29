@@ -1,27 +1,34 @@
-# 👋 Hey, I'm Erik
+# 👋 Erik Svensson
 
-💻 Java / Spring Boot / React  
-📊 Building a pricing engine & product dashboard  
-⚡ Passion for clean architecture & real-world systems  
+## 💻 About Me
 
----
-
-## 🚀 Projects
-- 🧠 Product Data Analyzer (Thesis)
-- 📡 SignalFlow (AI + market insights)
-- 🎮 Tower Defense (C# / MonoGame)
+* Java developer focused on backend systems and real-world applications
+* Building a full-stack pricing engine & product dashboard (thesis project)
+* Interested in system design, data pipelines and automation
 
 ---
 
-## 🛠 Tech Stack
-Java • Spring Boot • React • PostgreSQL • Docker  
+## 🧰 Languages and Tools
+
+Java • Spring Boot • React • PostgreSQL • Docker • Git
 
 ---
 
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ersvn)
+## 🌱 Currently Learning
+
+* Advanced Spring Boot & system architecture
+* API integrations & external data pipelines
+* Improving frontend structure with React
 
 ---
 
 ## 🌍 Portfolio
+
 👉 https://ersvn.github.io/
+
+---
+
+## 📫 Contact
+
+* Email: [()](erik.svensson@gritacademy.se)
+* LinkedIn: [(Erik Svensson)](https://www.linkedin.com/in/erik-svensson-20a191382/)
