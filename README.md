@@ -22,11 +22,11 @@ Java • Spring Boot • React • C# • PostgreSQL • Docker • Git
 
 ## Portfolio
 
-👉 Under construction
+Getting reworked
 
 ---
 
-## 📫 Contact
+## Contact
 
 * Email: erik.svensson@gritacademy.se
 * LinkedIn: [Erik Svensson](https://www.linkedin.com/in/erik-svensson-20a191382/)
