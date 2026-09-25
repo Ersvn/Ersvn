@@ -1,6 +1,6 @@
 # 👋 Erik Svensson
 
-## 💻 About Me
+## About Me
 
 * Java developer focused on backend systems and real-world applications
 * Building a full-stack pricing engine & product dashboard (thesis project)
@@ -8,21 +8,21 @@
 
 ---
 
-## 🧰 Languages and Tools
+## Languages and Tools
 
 Java • Spring Boot • React • C# • PostgreSQL • Docker • Git
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 * Advanced Spring Boot & system architecture
 
 ---
 
-## 🌍 Portfolio
+## Portfolio
 
-👉 https://ersvn.github.io/
+👉 Under construction
 
 ---
 
